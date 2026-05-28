@@ -1,0 +1,92 @@
+[
+  {
+    "code": "10808",
+    "originalCode": "14550-JOGI-PT",
+    "newCode": "10808",
+    "nameZh": "链条调整器(链顶)"
+  },
+  {
+    "code": "10894",
+    "originalCode": "11345-JOG-PT",
+    "newCode": "10894",
+    "nameZh": "冷却导管"
+  },
+  {
+    "code": "12506",
+    "originalCode": "1723A-XQG-PT",
+    "newCode": "12506",
+    "nameZh": "空滤器总成"
+  },
+  {
+    "code": "12777",
+    "originalCode": "2020C-GY6-FC-B",
+    "newCode": "12777",
+    "nameZh": "二轴二齿/B"
+  },
+  {
+    "code": "12846",
+    "originalCode": "22110-JOGI-SQ",
+    "newCode": "12846",
+    "nameZh": "驱动盘总成+叶+销"
+  },
+  {
+    "code": "13251",
+    "originalCode": "2812A-GFY6-PT-BEARING",
+    "newCode": "13251",
+    "nameZh": "起动盘总成/带大齿/走轴承"
+  },
+  {
+    "code": "13451",
+    "originalCode": "31200-18S-PT",
+    "newCode": "13451",
+    "nameZh": "起动马达"
+  },
+  {
+    "code": "13559",
+    "originalCode": "31600-KV7-ZF-6",
+    "newCode": "13559",
+    "nameZh": "整流器(硅)/6线"
+  },
+  {
+    "code": "14010",
+    "originalCode": "35150-FY100-ZC",
+    "newCode": "14010",
+    "nameZh": "右开关组"
+  },
+  {
+    "code": "14385",
+    "originalCode": "42650-YMH100-NS",
+    "newCode": "14385",
+    "nameZh": "陌陌后轮总成2.5/黑18T 梅花鹿"
+  },
+  {
+    "code": "15517",
+    "originalCode": "53200-JOGQG-PT",
+    "newCode": "15517",
+    "nameZh": "方向柱/下三星 古刹"
+  },
+  {
+    "code": "16687",
+    "originalCode": "53178-JOG-PT",
+    "newCode": "16687",
+    "nameZh": "左拉杆/左牛角"
+  },
+  {
+    "code": "16688",
+    "originalCode": "53175-JOG-PT",
+    "newCode": "16688",
+    "nameZh": "右拉杆/右牛角"
+  },
+  {
+    "code": "16957",
+    "originalCode": "31600-KV7-WX-6",
+    "newCode": "16957",
+    "nameZh": "整流器(硅)/6线"
+  },
+  {
+    "code": "17052",
+    "originalCode": "11342-JOGI-PT",
+    "newCode": "17052",
+    "nameZh": "皮带盖/左曲轴箱盖/铝 单 黑"
+  }
+]
